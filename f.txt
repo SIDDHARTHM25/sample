@@ -1,1 +1,1 @@
-fks fke
+console.log('hello form java');
