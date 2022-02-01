@@ -1,1 +1,1 @@
-Hello from java
+console.log('Hello');
